@@ -44,7 +44,7 @@ entry_matricule = tk.Entry(fenetre)
 entry_matricule.pack()
 
 label_nom = tk.Label(fenetre, text="Nom :")
-label_n  om.pack()
+label_nom.pack()
 entry_nom = tk.Entry(fenetre)
 entry_nom.pack()
 
